@@ -28,18 +28,6 @@ The foundation of this project is our unwavering belief that every individual de
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/mansir04/MentalHealthMERN.git
-```
-
-Go to the project directory
-
-```bash
-  cd MentalHealthMERN
-```
-
 Split the terminal and go to the Backend/Frontend folder
 
 ```bash
