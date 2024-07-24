@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Logoslider from '../components/Logoslider';
 import Home_info from '../components/Home_info';
-import img1 from '../images/poster.jpg';
+import img1 from '../images/main_banner.jpg';
 
 
 const Home = () => {
@@ -31,7 +31,7 @@ const Home = () => {
         <div className='home-allcontent'>
 
         <div className='home-project-intro-image'>
-          <img src={img1} alt='Sukoon: Embrace, Empower, Elevate' style={{width:'800px',marginLeft:'25%'}} ></img>
+          <img src={img1} alt='Sukoon: Embrace, Empower, Elevate'></img>
           
         </div>
 
