@@ -58,7 +58,7 @@ const ContactUs = () => {
           <div className="icon">
             <i className="fa fa-envelope"></i>
           </div>
-          <p>sukoon@gmail.com</p>
+          <p>umeed@gmail.com</p>
         </div>
         <div className="social-icons">
           <a href="#" className="icon">
